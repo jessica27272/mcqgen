@@ -2,4 +2,4 @@ groq
 langchain
 streamlit
 python-dotenv
-PyODF2
+PyPDF2
