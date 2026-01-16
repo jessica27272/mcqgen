@@ -27,5 +27,6 @@ The application generates multiple-choice questions from uploaded PDF or TXT doc
 
 ---
 
-## Project Structure
+
+
 
