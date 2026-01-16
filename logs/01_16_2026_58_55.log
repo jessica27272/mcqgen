@@ -1,0 +1,2 @@
+[2026-01-16 18:59:11,654]1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+[2026-01-16 18:59:11,668]80 root - ERROR - Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
